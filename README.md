@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooriyamosavy&theme=dark&hide_border=true" alt="GitHub Streak"/>
+      <img src="https://github-readme-stats.demolab.com?user=pooriyamosavy&theme=merko&hide_border=true" alt="GitHub Streak"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pooriyamosavy&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&title_color=00F0FF" alt="GitHub Stats"/>
@@ -35,6 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyamosavy&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" />
 </p>
 
+---
+
 ## 🧩 Tech Stack
 
 <p align="center">
@@ -48,8 +50,5 @@
 <p align="center">
   <a href="mailto:super.pra2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
