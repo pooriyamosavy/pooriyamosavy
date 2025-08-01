@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=pooriyamosavy&theme=merko&hide_border=true&fire=FF8C00&ring=FFD700&currStreakLabel=00F0FF" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooriyamosavy&theme=dark&hide_border=true" alt="GitHub Streak"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pooriyamosavy&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&title_color=00F0FF" alt="GitHub Stats"/>
