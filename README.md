@@ -15,11 +15,9 @@
 ---
 
 <p align="center">
-  <!-- فقط این یکی انیمیشن تایپ داره -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&width=600&height=70&lines=Achievements;3%2B+Chrome+Extensions+Delivered;250%2C000%2B+Active+Users;Led+10%2B+Developers;30%25+Faster+Delivery+Through+Improved+Architecture" alt="Typing Achievements" />
 </p>
 
-<!-- متن ساده و ثابت پایینش -->
 ## 🏆 Achievements
 
 - 3+ Chrome extensions delivered internationally  
@@ -29,4 +27,30 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Celebration Animation" width="280" />
+</p>
+
+---
+
+## 🧬 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyamosavy&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" />
+</p>
+
+---
+
+## 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,mongodb,tailwind,figma,vercel,docker,graphql,git,postman&perline=6" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:super.pra2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
