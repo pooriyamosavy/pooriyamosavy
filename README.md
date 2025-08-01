@@ -19,10 +19,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=YourUsername&theme=merko&hide_border=true&fire=FF8C00&ring=FFD700&currStreakLabel=00F0FF" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com?user=pooriyamosavy&theme=merko&hide_border=true&fire=FF8C00&ring=FFD700&currStreakLabel=00F0FF" alt="GitHub Streak"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&title_color=00F0FF" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=pooriyamosavy&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&title_color=00F0FF" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
@@ -32,10 +32,8 @@
 ## 🧬 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyamosavy&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" />
 </p>
-
----
 
 ## 🧩 Tech Stack
 
