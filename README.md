@@ -1,40 +1,57 @@
-<h2 align="center">⚡ My Dev Performance</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=80&lines=Hey+there+👋+I'm+a+Full-Stack+Developer;React+%2B+Node+%2B+Next.js+%2B+MongoDB;Pixel+Perfect+%7C+Fast+%7C+Clean+Code+💎" alt="Typing SVG" />
+</h1>
+
+---
+
+<div align="center">
+
+🧠 <b>Driven by Passion. Powered by Coffee ☕</b>  
+🛠️ <i>Creating smooth experiences with bold frontend & strong backend</i>  
+🎯 <b>Focused on performance, elegance, and detail</b>
+
+</div>
+
+---
+
+## 🚀 GitHub Super Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=YourUsername&theme=merko&hide_border=true&fire=FF8C00&ring=FFD700&currStreakLabel=00F0FF" alt="GitHub Streak"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&title_color=00F0FF" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧬 Top Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Full-Stack+Developer+🧑‍💻;React+%2B+Node+%2B+MongoDB+%2B+Next.js+🚀;100%25+Passion+%7C+0%25+Bug+Tolerance+🔥" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-| 💎 Metric               | 🚀 Value       |
-|------------------------|----------------|
-| 🌟 Stars Earned        | `28.4k+`        |
-| 🔁 PRs Merged           | `201`           |
-| 🐛 Issues Squashed      | `150`           |
-| 💡 Dev Energy           | `100% Passion ⚡` |
-
----
+## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true&ring=ff5c57&fire=ffb86c" alt="🔥 GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&icon_color=79ff97" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,mongodb,tailwind,figma,vercel,docker,graphql,git,postman&perline=6" />
 </p>
 
 ---
 
-### 🧩 Tech Stack
+## 📫 Contact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,typescript,tailwind,figma,git,docker" />
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
----
-
-### 🛰️ ORCID
-
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green?logo=orcid&logoColor=white&style=for-the-badge)](https://orcid.org/0000-0002-1825-0097)
