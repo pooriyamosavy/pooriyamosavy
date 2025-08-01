@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0ff&center=true&width=700&height=80&lines=Hi,+I'm+Pooriya;Full-Stack+Developer;React+%7C+Node+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0ff&center=true&width=700&height=80&lines=Hi,+I'm+Pooriya;Full-Stack+Developer;React+%7C+React+Native+%7C+Node.js" alt="Typing SVG" />
 </h1>
 
 ---
@@ -7,8 +7,8 @@
 <div align="center">
   
 🧠 <b>Driven by Passion. Powered by Coffee ☕</b><br>
-🛠️ <i>Creating smooth experiences with bold frontend & strong backend</i><br>
-🎯 <b>Focused on performance, elegance, and detail</b>
+🛠️ <i>Specialized in React, React Native & Node.js Ecosystems</i><br>
+🎯 <b>Leader in Front-end Architecture & Cross-platform Apps</b>
 
 </div>
 
@@ -40,7 +40,7 @@
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,mongodb,tailwind,figma,vercel,docker,graphql,git,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,typescript,mongodb,tailwind,framer,git,vercel,docker&perline=6" />
 </p>
 
 ---
