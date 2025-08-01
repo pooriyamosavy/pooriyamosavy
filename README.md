@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=80&lines=Hey+there+👋+I'm+a+Full-Stack+Developer;React+%2B+Node+%2B+Next.js+%2B+MongoDB;Pixel+Perfect+%7C+Fast+%7C+Clean+Code+💎" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0ff&center=true&width=700&height=80&lines=Hi,+I'm+Pooriya;Full-Stack+Developer;React+%7C+Node+%7C+Next.js" alt="Typing SVG" />
 </h1>
 
 ---
 
 <div align="center">
-
-🧠 <b>Driven by Passion. Powered by Coffee ☕</b>  
-🛠️ <i>Creating smooth experiences with bold frontend & strong backend</i>  
+  
+🧠 <b>Driven by Passion. Powered by Coffee ☕</b><br>
+🛠️ <i>Creating smooth experiences with bold frontend & strong backend</i><br>
 🎯 <b>Focused on performance, elegance, and detail</b>
 
 </div>
@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.demolab.com?user=pooriyamosavy&theme=merko&hide_border=true" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com?user=pooriyamosavy&theme=radical&hide_border=true&fire=FF8C00&ring=FFD700&currStreakLabel=00F0FF" alt="GitHub Streak"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pooriyamosavy&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&title_color=00F0FF" alt="GitHub Stats"/>
