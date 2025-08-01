@@ -29,7 +29,6 @@
   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Celebration Animation" width="280" />
 </p>
 
-
 ---
 
 ## 🧬 Top Languages
