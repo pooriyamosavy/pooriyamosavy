@@ -14,18 +14,21 @@
 
 ---
 
-## 🚀 GitHub Super Stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=00F0FF&center=true&vCenter=true&width=600&lines=Achievements;3%2B+Chrome+Extensions;250%2C000%2B+Active+Users;Leadership+and+Architecture" alt="Typing SVG" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=pooriyamosavy&theme=radical&hide_border=true&fire=FF8C00&ring=FFD700&currStreakLabel=00F0FF" alt="GitHub Streak"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pooriyamosavy&show_icons=true&theme=radical&hide_border=true&icon_color=FFD700&title_color=00F0FF" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+## 🏆 Achievements
+
+- 3+ Chrome extensions delivered internationally  
+- 250,000+ active users on mobile apps  
+- Led 10+ developers in multi-project teams  
+- 30% faster delivery through improved architecture  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Celebration Animation" width="280" />
+</p>
+
 
 ---
 
