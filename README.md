@@ -48,7 +48,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:you@example.com">
+  <a href="super.pra2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com">
