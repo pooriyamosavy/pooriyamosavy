@@ -42,7 +42,7 @@
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,typescript,mongodb,tailwind,framer,git,vercel,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,mongodb,tailwind,figma,vercel,docker,graphql,git,postman&perline=6" />
 </p>
 
 ---
