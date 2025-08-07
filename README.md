@@ -1,56 +1,48 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0ff&center=true&width=700&height=80&lines=Hi,+I'm+Pooriya;Full-Stack+Developer;React+%7C+React+Native+%7C+Node.js" alt="Typing SVG" />
-</h1>
+Pooriya Mosavy
 
----
-
-<div align="center">
   
-🧠 <b>Driven by Passion. Powered by Coffee ☕</b><br>
-🛠️ <i>Specialized in React, React Native & Node.js Ecosystems</i><br>
-🎯 <b>Leader in Front-end Architecture & Cross-platform Apps</b>
 
-</div>
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&width=600&height=70&lines=Achievements;3%2B+Chrome+Extensions+Delivered;250%2C000%2B+Active+Users;Led+10%2B+Developers;30%25+Faster+Delivery+Through+Improved+Architecture" alt="Typing Achievements" />
-</p>
 
-## 🏆 Achievements
+  🧠 Bringing Code to Life with Stunning Animations
+  🛠️ Master of React, Node.js, and Dynamic UIs
+  🎯 Creating Seamless, Scalable, and Interactive Experiences
 
-- 3+ Chrome extensions delivered internationally  
-- 250,000+ active users on mobile apps  
-- Led 10+ developers in multi-project teams  
-- 30% faster delivery through improved architecture  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="Celebration Animation" width="280" />
-</p>
 
----
+🎨 What I Create
 
-## 🧬 Top Languages
+Interactive Web Apps: Building vibrant React and Next.js apps with fluid animations using Framer Motion and GSAP.
+Cross-Platform Mobile: Crafting React Native apps with Expo for smooth, native-like performance.
+Scalable Backends: Powering apps with NestJS, Node.js, and databases like MongoDB and PostgreSQL.
+Engaging 3D Visuals: Rendering immersive 3D experiences with Three.js and Anime.js.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyamosavy&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=300" />
-</p>
 
----
+  
 
-## 🧩 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,mongodb,tailwind,figma,vercel,docker,graphql,git,postman&perline=6" />
-</p>
 
----
+🧬 Top Languages
 
-## 📫 Contact
+  
 
-<p align="center">
-  <a href="mailto:super.pra2022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+
+🧩 Tech Stack
+
+  
+
+
+
+📫 Connect with Me
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
